@@ -19,7 +19,7 @@ print("the quotient of x and y is " +str (quot))
 
 
   # volume of a circle
-radius = input("Enter the radius of the circle git add " +str(7))
+radius = input("Enter the radius of the circle " +str(7))
 radius = 7
 PI = 3.142
 
