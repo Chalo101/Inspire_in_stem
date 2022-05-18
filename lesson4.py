@@ -39,7 +39,7 @@ PI = 3.142
 radius = 7
 diameter = 14
 height =3.5
-surfaceArea = 2* PI * radius + PI *diameter * height 
+surfaceArea = 2* int(PI) * int(radius) + PI *int(diameter) * height 
 
 print(" The surface area of the cylinder is") +str(surfaceArea)
 
