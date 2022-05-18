@@ -4,7 +4,7 @@
 ## Week 1 : introduction to python
 day 1: installing python
  htttps://www.python.org/downloads/
-
+ image.png
    strings
          replace()
          strip()
