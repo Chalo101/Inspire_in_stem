@@ -26,7 +26,11 @@ plate_number = ['H1234', 'y1234','g1234']
 #print a statement : My name is mojo Jojo and I own a motorcylce plate number
 #print("My name is " +str(motorcycle_owner)+ " and I own a " + str(motorcycle[0]) +" plate number " + str(plate_number[0]))
 # removing an item from a list
+#motorcycle.remove('Honda')
+#print(motorcycle)
 
-motorcycle.remove('Honda')
+school =['Joy' , 'Hope' , 'Mercy' ,'Happy']
+pupil =['Peace','Patience' , 'Amani','Character']
 
-print(motorcycle)
+for pupil in pupil:
+    print(f'hello I am pupil {pupil}')
