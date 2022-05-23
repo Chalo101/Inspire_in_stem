@@ -35,3 +35,5 @@ pupil =['Peace','Patience' , 'Amani','Character']
 for pupil in pupil:
     print(f'hello I am pupil {pupil}')
 print(motorcycle[-1])
+motorcycle[2]='Dugatti'
+print(motorcycle)
