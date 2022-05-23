@@ -64,3 +64,6 @@ msg = "hello from Charles Kagoko how are you"
 print(msg.split()) 
 
 print(len(msg))
+# how to add tabs
+ #use /t
+print('Monday\nTuesday')

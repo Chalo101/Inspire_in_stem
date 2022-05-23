@@ -29,7 +29,7 @@ print ("the area of a circle is " +str (area))
 #volumeof a cube
 length = 7
 length = input(" Enter the length ")
-volumeOfACube = int(length) *int(length) *int(length)
+volumeOfACube = int(length)*int(length)*int(length)
 
 print(" The volume of a cube is " +str(volumeOfACube))
 
