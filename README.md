@@ -13,7 +13,7 @@ day 1: installing python
          upper()
          lower()
          len()
- #git commands
+ #git command
  git add
 add a link to python download
 
