@@ -19,12 +19,11 @@ print("the quotient of x and y is " +str (quot))
 
 
   #
-radius = input("Enter the radius of the circle " +str(7))
-radius = 7
-PI = 3.142
+PI=3.142
+radius = input("Enter the radius of the circle ")
 
-area = PI * radius * radius
-print ("the area of a circle is " +str (area))
+area = (float(PI) * radius * radius)
+print ("the area of a circle is " +float (area))
 
 #volumeof a cube
 length = 7
