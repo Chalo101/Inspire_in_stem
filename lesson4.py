@@ -22,8 +22,8 @@ print("the quotient of x and y is " +str (quot))
 PI=3.142
 radius = input("Enter the radius of the circle ")
 
-area = (float(PI) * radius * radius)
-print ("the area of a circle is " +float (area))
+area = (float(PI) * int(radius)* int(radius))
+print ("the area of a circle is " +str (area))
 
 #volumeof a cube
 length = 7
@@ -38,9 +38,9 @@ PI = 3.142
 radius = 7
 diameter = 14
 height =3.5
-surfaceArea = 2* int(PI) * int(radius) + PI *int(diameter) * height 
+surfaceArea = (2* int(PI) * int(radius) + PI *int(diameter) * int(height))
 
-print(" The surface area of the cylinder is") +str(surfaceArea)
+print(" The surface area of the cylinder is" +str(surfaceArea))
 
 #Volume of a cylinder
 radius = 7
@@ -48,5 +48,5 @@ height =4
 PI = 3.142
 Vol = int(PI)* int(radius) * int (radius) * int (height)
 
-print ("The volume of the cylinder is") +str(Vol)
+print ("The volume of the cylinder is"+str(Vol))
  

@@ -6,11 +6,11 @@
         # print(numbers)
 
  #sum of all even numbers btn 0 - 50
-num=10
-while  num < 10 :
+num=20
+while  num < 20 :
       if(num % 2 == 0):
         num =num+1
-        print(num)
+print(num)
 
 
 
@@ -22,7 +22,6 @@ while  num < 10 :
 #print(prod_num)
 
 # calculate the factorial of 6
-#)
 
 
 # While loops
