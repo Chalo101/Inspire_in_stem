@@ -5,4 +5,3 @@ fav_food={
     'mary':['beef','chicken','vegetable'],
     'jane':['rice','ugali','potato']
 }
-print(fav_food)
